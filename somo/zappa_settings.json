@@ -1,0 +1,11 @@
+{
+    "production": {
+        "app_function": "app.app",
+        "s3_bucket": "skillshare-random",
+        "aws_region": "us-east-1",
+        "environment_variables": {
+            "SOLO_LOCATION": "http://skillshare-music.ngrok.io",
+            "SLACK_TEAM_TOKEN": "mwLrUD1ZEva0vrGdl4gjrIA2"
+        }
+    }
+}
